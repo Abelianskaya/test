@@ -1,0 +1,8 @@
+<templateSet group="Python">
+  <template name="import_templ" value="import ($VAR$&#10;&#10;)" description="erer" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

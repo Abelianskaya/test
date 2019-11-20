@@ -1,0 +1,3 @@
+<templateSet group="user">
+  <template name="&lt;abbreviation&gt;" value="import (" description="" toReformat="false" toShortenFQNames="true" />
+</templateSet>

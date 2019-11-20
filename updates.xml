@@ -1,0 +1,16 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="192.6817.19" />
+      <item value="192.6603.34" />
+      <item value="192.6817.11" />
+      <item value="192.6817.7" />
+      <item value="192.6603.24" />
+      <item value="192.6603.10" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="PY-192.6817.19" />
+    <option name="LAST_TIME_CHECKED" value="1574247207655" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="UPDATE_CHANNEL_TYPE" value="eap" />
+  </component>
+</application>

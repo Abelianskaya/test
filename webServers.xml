@@ -1,0 +1,41 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="982606ee-91e8-45a8-8064-ee7ace74e64b" name="parallels@10.211.55.4:22" url="http:///">
+        <fileTransfer host="10.211.55.4" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="982606ee-91e8-45a8-8064-ee7ace74e64b" name="parallels@10.211.55.4:22 (1)" url="http:///">
+        <fileTransfer host="10.211.55.4" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="cd5ba435-af21-4960-a43d-8ea3b4111697" name="parallels@10.211.55.4:22 (2)" url="http:///">
+        <fileTransfer host="10.211.55.4" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="cd5ba435-af21-4960-a43d-8ea3b4111697" name="parallels@10.211.55.4:22 (3)" url="http:///">
+        <fileTransfer host="10.211.55.4" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="cd5ba435-af21-4960-a43d-8ea3b4111697" name="parallels@10.211.55.4:22 (4)" url="http:///">
+        <fileTransfer host="10.211.55.4" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="cd5ba435-af21-4960-a43d-8ea3b4111697" name="parallels@10.211.55.4:22 (5)" url="http:///">
+        <fileTransfer host="10.211.55.4" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="93c40710-7338-45a3-9825-843a6ebf0970" name="parallels@10.211.55.4:22 (6)" url="http:///">
+        <fileTransfer host="10.211.55.4" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
