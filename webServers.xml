@@ -36,6 +36,16 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="af8e5490-d293-47bf-a626-0ffbea78c6b2" name="parallels@172.30.163.29:22" url="http:///">
+        <fileTransfer host="172.30.163.29" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="af8e5490-d293-47bf-a626-0ffbea78c6b2" name="parallels@172.30.163.29:22 (1)" url="http:///">
+        <fileTransfer host="172.30.163.29" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
