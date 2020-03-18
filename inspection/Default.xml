@@ -12,7 +12,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="130">
+        <list size="131">
           <item index="0" class="java.lang.String" itemvalue="traitlets" />
           <item index="1" class="java.lang.String" itemvalue="decorator" />
           <item index="2" class="java.lang.String" itemvalue="pyloco" />
@@ -143,6 +143,7 @@
           <item index="127" class="java.lang.String" itemvalue="py" />
           <item index="128" class="java.lang.String" itemvalue="requests" />
           <item index="129" class="java.lang.String" itemvalue="idna" />
+          <item index="130" class="java.lang.String" itemvalue="PySurfer[save_movie]" />
         </list>
       </value>
     </option>
