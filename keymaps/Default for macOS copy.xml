@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="BraceOrQuoteOut">
+    <keyboard-shortcut first-keystroke="0" />
+  </action>
   <action id="EditorBackwardParagraphWithSelection">
     <keyboard-shortcut first-keystroke="w" second-keystroke="enter" />
   </action>
