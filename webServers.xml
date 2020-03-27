@@ -1,0 +1,16 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9a6b4a9b-271d-457b-994b-6ea66d9596b5" name="parallels@172.30.163.29:22" url="http:///">
+        <fileTransfer host="172.30.163.29" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9a6b4a9b-271d-457b-994b-6ea66d9596b5" name="parallels@172.30.163.29:22" url="http:///">
+        <fileTransfer host="172.30.163.29" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
