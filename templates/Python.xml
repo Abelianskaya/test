@@ -5,7 +5,14 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="puper" value="//TODO $&lt;blockCommentEnd&gt;$  $END$" description="(do something)" toReformat="false" toShortenFQNames="true">
+  <template name="puper" value="//TODO $&lt;date&gt;$  $END$" description="(do something)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="kuki" value="/TODO $DATE$ $USER$:by SJS $END$ " toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="USER" expression="SJS" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
     </context>
