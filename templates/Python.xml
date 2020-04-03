@@ -10,7 +10,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="kuki" value="/TODO $DATE$ $USER$:by SJS $END$ " toReformat="false" toShortenFQNames="true">
+  <template name="kuki" value="/TODO $DATE$ $USER$:by SJS $END$ " description="" toReformat="false" toShortenFQNames="true">
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="USER" expression="SJS" defaultValue="" alwaysStopAt="true" />
     <context>
